@@ -3,4 +3,4 @@ My Self Made Keyboard Keymap Configurations
 
 ## Lily58
 
-- [https://github.com/naotor/keymaps/]
+- [basic_keymaps](https://github.com/naotor/keymaps/lily58/)
